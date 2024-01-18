@@ -1,0 +1,42 @@
+TEST1
+  ABC
+    EFG
+      ZZZ
+        QWERTY
+          ASD
+            F
+              F
+              b.txt
+              c.txt
+              a.txt
+  TEST
+    C
+    Z
+      test
+    b
+TEST2
+  TEST
+    Z
+      A
+      AAA
+        test
+      B
+      E
+      ZZZ
+        test
+TEST3
+  TEST
+    B
+      XXX
+    a
+TEST4
+  ABC
+    EFG
+      ZZ1
+      ZZZ
+        QWERTY
+          ASD
+            F
+            F2
+            F3
+    ZZZ
