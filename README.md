@@ -3,7 +3,7 @@
 git clone https://github.com/StrunkGroove/Baspro-test.git
 ```
 ```
-cd cd Baspro-test/
+cd Baspro-test/
 ```
 ```
 dotnet run
